@@ -1,4 +1,3 @@
-```markdown
 # 📦 Warehouse Management System - It Case
 
 Sistema de **gestão de estoque** desenvolvido para a **It Case**, com o objetivo de otimizar o controle de produtos, movimentações de entrada/saída e relatórios de estoque.  
@@ -24,8 +23,6 @@ Construído com **Laravel 12** (API RESTful) e **Angular 20** (interface web mod
 ---
 
 ## 📂 Estrutura do Projeto
-
-```
 
 Warehouse-Management-System/
 ├── client/   # Frontend em Angular 20
@@ -134,4 +131,9 @@ Distribuição ou cópia sem autorização prévia não é permitida.
 Desenvolvido por **It Case**
 Contato: [GitHub - dev-raimundos](https://github.com/dev-raimundos)
 
+```
+
+---
+
+👉 Quer que eu já deixe esse README mais **institucional/comercial** (voltado para apresentação da It Case como fornecedora do sistema), ou prefere manter ele **mais técnico**, para desenvolvedores que vão dar manutenção?
 ```
