@@ -121,12 +121,8 @@ ng serve -o
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **It Case**
+Desenvolvido para **It Case**
 Contato: [GitHub - dev-raimundos](https://github.com/dev-raimundos)
 
 ```
-
----
-
-👉 Quer que eu já deixe esse README mais **institucional/comercial** (voltado para apresentação da It Case como fornecedora do sistema), ou prefere manter ele **mais técnico**, para desenvolvedores que vão dar manutenção?
 ```
