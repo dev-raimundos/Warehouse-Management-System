@@ -119,13 +119,6 @@ ng serve -o
 
 ---
 
-## 📜 Licença
-
-Este projeto foi desenvolvido para **uso interno da It Case**.
-Distribuição ou cópia sem autorização prévia não é permitida.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **It Case**
